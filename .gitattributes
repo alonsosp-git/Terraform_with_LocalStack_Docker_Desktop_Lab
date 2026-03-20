@@ -1,0 +1,2 @@
+*.tf linguist-language=Terraform
+*.ps1 linguist-language=PowerShell
